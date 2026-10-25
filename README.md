@@ -164,7 +164,6 @@ Seven conference papers listed in my résumé. Open each research area to see th
 | Where | Role | Work that mattered |
 |:--|:--|:--|
 | **IIT Bombay** | Research Intern | Fingerprint restoration, 95% minutiae preservation in a reported experiment, liveness research |
-| **SPJIMR** | Research Intern | Built learning tools for 75 students; analytics + an AI Q&A assistant |
 | **Sonicbolt Technologies** | IoT & Data Engineering Intern | Processed 25K+ hourly records/month; standardized data for 120+ devices |
 | **SPIT** | Teaching Assistant | Supported OOP and AI/Soft Computing laboratory teaching |
 | **ADN Fire Safety** | SDE Intern | Restructured 1,500+ historical transactions and procurement analytics |
