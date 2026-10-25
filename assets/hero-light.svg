@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Purav Ahya, research and engineering portfolio">
+ <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#F5F8FF"/><stop offset="1" stop-color="#EAF3FC"/></linearGradient><linearGradient id="accent"><stop stop-color="#087E7A"/><stop offset="1" stop-color="#6153AC"/></linearGradient><pattern id="dot" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="1.4" cy="1.4" r="1" fill="#CED9ED" opacity=".55"/></pattern></defs>
+ <rect width="1200" height="360" rx="22" fill="url(#bg)"/><rect width="1200" height="360" rx="22" fill="url(#dot)" opacity=".45"/>
+ <path d="M0 355L460 355L620 260L835 260L1200 56" fill="none" stroke="#CED9ED" stroke-width="1.5" opacity=".42"/>
+ <g font-family="Arial, Helvetica, sans-serif"><rect x="54" y="42" rx="12" width="196" height="29" fill="#E8EEF9" stroke="#CED9ED"/><circle cx="74" cy="56" r="4.5" fill="#087E7A"/><text x="89" y="61" font-size="12" font-weight="700" fill="#53647D" letter-spacing="1.4">RESEARCH × BUILD</text>
+ <text x="54" y="147" font-size="64" font-weight="700" letter-spacing="-2" fill="#182747">Purav Ahya<tspan fill="#087E7A">.</tspan></text>
+ <text x="56" y="192" font-size="20" font-weight="500" fill="#53647D">Machine Learning Researcher  /  Software Engineer</text>
+ <rect x="55" y="231" width="350" height="3" rx="1" fill="url(#accent)"/>
+ <text x="55" y="269" font-size="15" fill="#182747">Trustworthy AI    •    Computer Vision    •    Graph Learning</text>
+ <text x="55" y="315" font-size="12" fill="#53647D" letter-spacing="1">FROM RESEARCH IDEAS TO REAL SYSTEMS</text></g>
+ <g stroke-width="2" fill="none" stroke="#CED9ED" opacity=".95">
+  <path d="M846 76L953 45L1081 108L1127 198L1043 285L897 277L800 191Z"/><path d="M846 76L897 277M953 45L1043 285M1081 108L800 191M1127 198L846 76M800 191L1043 285M897 277L1081 108"/>
+ </g><g fill="#087E7A"><circle cx="846" cy="76" r="9"/><circle cx="1081" cy="108" r="7"/><circle cx="897" cy="277" r="8"/></g><g fill="#6153AC"><circle cx="953" cy="45" r="6"/><circle cx="1127" cy="198" r="11"/><circle cx="800" cy="191" r="7"/><circle cx="1043" cy="285" r="7"/></g>
+ <g fill="#F5F8FF" stroke="#087E7A" stroke-width="3"><circle cx="959" cy="173" r="28"/></g><path d="M949 175l8 8 15-19" stroke="#087E7A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ </svg>
