@@ -1,154 +1,232 @@
-<!-- GitHub Profile README | purav-12345 -->
+<!-- Profile repository: github.com/purav-12345/purav-12345 -->
+<!-- Assets are relative and bundled with this README. -->
+
 <div align="center">
 
-# Hi, I'm Purav Ahya! 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Purav Ahya — Machine Learning Researcher and Software Engineer" src="./assets/hero-dark.svg" width="100%">
+</picture>
 
-### AI/ML Researcher · Software Engineer · Applied AI Enthusiast
+<br>
 
-*Building intelligent, reliable systems at the intersection of machine learning, computer vision, graph learning, and real-world applications.*
+[![Explore research](https://img.shields.io/badge/Explore-Research-36CDB8?style=for-the-badge)](#-research-at-a-glance)
+[![See projects](https://img.shields.io/badge/View-Projects-7866D9?style=for-the-badge)](#-selected-projects)
+[![Publications](https://img.shields.io/badge/Read-Publications-25344F?style=for-the-badge)](#-publications)
+[![Say hello](https://img.shields.io/badge/Contact-Email-25344F?style=for-the-badge&logo=gmail)](mailto:ahyapurav2004@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-purav--12345-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/purav-12345)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahyapurav2004@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=purav-12345&style=for-the-badge&color=0e75b6)](https://github.com/purav-12345)
+<sub>Computer Vision · Trustworthy ML · Graph Representation Learning · AI Systems</sub>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👋 The short version
 
-I'm **Purav Ahya**, a computer engineering graduate from **Sardar Patel Institute of Technology**, interested in both rigorous AI research and building practical software. My work spans **deep learning, computer vision, generative AI, graph neural networks, explainable AI, and risk analytics**.
+I'm **Purav Ahya** — I work across **AI research and practical software engineering**, from biometric image restoration and medical vision models to graph learning, credit-risk systems and retrieval-augmented AI.
 
-- 🔬 **Research:** Worked as a Research Intern at **IIT Bombay**, developing fingerprint restoration and biometric verification methods, including super-resolution and liveness detection.
-- 🧠 **Applied AI:** Built projects involving RAG for cybersecurity, multilingual audio/video translation, and medical image analysis.
-- 📊 **Industry experience:** Worked on AI-assisted education, IoT analytics, credit-risk modeling, and data engineering at **SPJIMR, Sonicbolt Technologies, OnEMI**, and other organizations.
-- 📚 **Research output:** Co-authored **7 conference papers** spanning credit scoring, GNNs, healthcare AI, transformers, and traffic forecasting.
-- 🤝 **Interested in collaborating on:** Computer vision, trustworthy ML, graph representation learning, multimodal AI, and applied research.
+I focus on a question that connects most of my work: **How do we make powerful models reliable, interpretable and useful beyond the experiment?**
 
-> I enjoy turning research ideas into reproducible experiments and, ultimately, systems that solve meaningful problems.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🔍 Research mindset**
 
-## 🛠️ Tech Stack
+Computer vision · Transformers · GNNs · Calibration · Explainability · Multimodal learning
 
-**Programming languages**
+</td>
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+**🧱 Engineering mindset**
 
-**Machine learning & AI**
+Python · PyTorch · TensorFlow · FastAPI · Docker · SQL · Data pipelines
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+</td>
+</tr>
+</table>
 
-**Backend, data & infrastructure**
+## 🧪 Research at a glance
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%"><h3>07</h3><sub>Conference papers listed<br>in my résumé</sub></td>
+<td align="center" width="33%"><h3>06</h3><sub>Research, industry &amp;<br>teaching roles</sub></td>
+<td align="center" width="33%"><h3>03</h3><sub>Selected projects<br>featured below</sub></td>
+</tr>
+</table>
+</div>
 
-**Databases**
+<details>
+<summary><b>🧭 Open my research map — themes and representative work</b></summary>
+<br>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+| Research theme | What I've worked on |
+|:--|:--|
+| **Vision & biometrics** | Fingerprint restoration, super-resolution, liveness detection at IIT Bombay |
+| **Trustworthy medical AI** | Calibrated image classifiers, uncertainty and out-of-distribution detection |
+| **Graph machine learning** | Credit scoring with GCN/GAT and explainable risk assessment |
+| **Language & multimodal AI** | Cybersecurity RAG, multilingual audiovisual translation |
+| **Applied analytics** | Credit-risk modeling, IoT energy profiling, AI-assisted learning |
 
----
+</details>
 
-## 🔬 Research & Professional Experience
+### How I approach a problem
 
-| Organization | Role | Focus |
-| :--- | :--- | :--- |
-| **Indian Institute of Technology Bombay** | Research Intern | Biometric image restoration, fingerprint super-resolution, liveness detection |
-| **SP Jain Institute of Management and Research** | Research Intern | AI-assisted learning management and educational analytics |
-| **Sonicbolt Technologies LLP** | IoT & Data Engineering Intern | Device data validation, energy-consumption profiling |
-| **Sardar Patel Institute of Technology** | Teaching Assistant | OOP and AI/Soft Computing laboratory instruction |
-| **ADN Fire Safety Pvt. Ltd.** | SDE Intern | Transaction data modeling and procurement analytics |
-| **OnEMI Technology Solutions** | Data Analytics Intern | Credit-risk analytics, alternate data, classification |
+![Research workflow: question, model, verify, deliver](./assets/workflow.svg)
 
----
+## 🚀 Selected projects
 
-## 🚀 Selected Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🛡️ Cyber.AI</h3>
+<b>Security intelligence through retrieval + reasoning</b>
+<p>A cybersecurity knowledge workflow combining SecureBERT, retrieval-augmented generation, clustering, topic modeling and knowledge graphs to surface relevant threats and vulnerability insights.</p>
+<code>RAG</code> <code>SecureBERT</code> <code>FastAPI</code> <code>Knowledge Graphs</code>
+<br><br>
+<a href="https://github.com/purav-12345?tab=repositories">Browse repositories →</a>
+</td>
+<td width="50%" valign="top">
+<h3>🎬 Indic A/V Translation</h3>
+<b>Speech-to-speech translation with lip synchronization</b>
+<p>English-to-Indic ASR → NMT → TTS workflow with Wav2Lip-based visual dubbing. Project evaluation reported <b>BLEU 31.5</b>.</p>
+<code>PyTorch</code> <code>NMT</code> <code>GANs</code>
+<br><br>
+<a href="https://github.com/purav-12345?tab=repositories">Browse repositories →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🩺 SpectraScan</h3>
+<b>Medical modeling across multimodal signals</b>
+<p>Sequential learning for Parkinson's biomarker progression (<b>88% early-stage accuracy</b>) and cross-attention fusion of mammography and metadata (<b>0.95 AUC</b>) in project evaluation.</p>
+<code>TensorFlow</code> <code>Flask</code> <code>scikit-learn</code>
+<br><br>
+<a href="https://github.com/purav-12345?tab=repositories">Browse repositories →</a>
+</td>
+<td width="50%" valign="top">
+<h3>🔬 Applied biometric research</h3>
+<b>High-fidelity restoration and anti-spoofing</b>
+<p>At IIT Bombay, worked on fingerprint super-resolution and biometric liveness detection, spanning frequency-domain preprocessing, U-Net-based restoration and hand-tracking workflows.</p>
+<code>Computer Vision</code> <code>U-Net</code> <code>Biometrics</code>
+<br><br>
+<a href="#-experience--impact">See experience →</a>
+</td>
+</tr>
+</table>
 
-### 🛡️ Cyber.AI — Cybersecurity Intelligence with RAG & Knowledge Graphs
-**RAG · SecureBERT · Knowledge Graphs · FastAPI**
+> **Project note:** Metrics above are the results reported in my résumé, not independently reproduced benchmarks. Repository links lead to my repository index until individual source links are added.
 
-Built a domain-aware cybersecurity intelligence framework using SecureBERT, retrieval-augmented generation, clustering, and topic modeling to analyze vulnerabilities and surface risk-relevant insights.
+## 📚 Publications
 
-### 🗣️ Audiovisual Translation in Indian Languages
-**PyTorch · Neural Machine Translation · GANs**
+Seven conference papers listed in my résumé. Open each research area to see the corresponding papers. *Links to publisher records can be added when verified.*
 
-Developed an English-to-Indic translation and dubbing pipeline integrating speech recognition, machine translation, text-to-speech, and Wav2Lip-based lip synchronization. Reported **BLEU 31.5** in project evaluation.
-
-### 🩺 SpectraScan — AI for Medical Analysis
-**TensorFlow · scikit-learn · Flask · Firebase**
-
-Explored sequential learning for Parkinson's biomarker progression (**88% early-stage detection accuracy**) and cross-attention fusion for mammography with patient metadata (**0.95 AUC**).
-
-*Explore additional work in my [repositories](https://github.com/purav-12345?tab=repositories).*
-
----
-
-## 📄 Publications
-
-*Conference papers listed in my résumé (2025). Titles and venues are provided below; publication links can be added once verified.*
+<details open>
+<summary><b>📈 Financial AI &amp; Graph Learning · 4 papers</b></summary>
+<br>
 
 1. **Comparative Analysis of Optimized Machine Learning and Deep Learning Models for Credit Risk Prediction**  
-   P. Ahya, I. Bamel, S. Chandra  
-   *1st IEEE International Conference on Data Science and Intelligent Network Computing (2025)*
-
+   P. Ahya, I. Bamel, S. Chandra · *1st IEEE International Conference on Data Science and Intelligent Network Computing* (2025)
 2. **Evaluating Graph Neural Network Architectures for Credit Scoring: A Comparative Analysis**  
-   P. Ahya, J. Sisodia, K. Devadkar  
-   *2nd IEEE International Conference on Computational Intelligence and Computing Applications (2025)*
-
+   P. Ahya, J. Sisodia, K. Devadkar · *2nd IEEE International Conference on Computational Intelligence and Computing Applications* (2025)
 3. **Hybrid Optimization and Explainability-Driven Framework for Creditworthiness Assessment**  
-   P. Ahya, I. Bamel, S. Chandra  
-   *IEEE 4th International Conference for Advancement in Technology (2025)*
-
+   P. Ahya, I. Bamel, S. Chandra · *IEEE 4th International Conference for Advancement in Technology* (2025)
 4. **Graph Neural Approaches to Credit Scoring: Interpretable Learning with GCN and GAT**  
-   P. Ahya, J. Sisodia, K. Devadkar  
-   *2nd Asia Pacific Conference on Innovation in Technology (2025)*
+   P. Ahya, J. Sisodia, K. Devadkar · *2nd Asia Pacific Conference on Innovation in Technology* (2025)
+
+</details>
+
+<details>
+<summary><b>🧬 Medical AI &amp; Transformers · 2 papers</b></summary>
+<br>
 
 5. **Uncertainty-Aware Osteoporosis Classification with Calibrated Transformer and OOD Detection**  
-   P. Ahya, J. Sisodia, K. Devadkar  
-   *7th International Conference on Innovative Data Communication Technologies and Application (2025)*
-
+   P. Ahya, J. Sisodia, K. Devadkar · *7th International Conference on Innovative Data Communication Technologies and Application* (2025)
 6. **Comparative Analysis of Transformer Models for Skin Lesion Detection**  
-   I. Bamel, P. Ahya, R. Sawant  
-   *4th IEEE International Conference on Computer Vision and Machine Intelligence (2025)*
+   I. Bamel, P. Ahya, R. Sawant · *4th IEEE International Conference on Computer Vision and Machine Intelligence* (2025)
+
+</details>
+
+<details>
+<summary><b>🚦 Forecasting &amp; Sequence Modeling · 1 paper</b></summary>
+<br>
 
 7. **Memory Augmented Transformers for Scalable Urban Traffic Forecasting**  
-   M. Vala, V. Gangwani, P. Ahya, K. Devadkar  
-   *International Conference on Intelligent & Innovative Practices in Engineering & Management (2025)*
+   M. Vala, V. Gangwani, P. Ahya, K. Devadkar · *International Conference on Intelligent &amp; Innovative Practices in Engineering &amp; Management* (2025)
 
----
+</details>
 
-## 🏆 Honors & Recognition
+## 💼 Experience & impact
 
-- 🥇 **Winner:** DataHack 3.0 Hackathon (2024) and SPIT SE Hackathon (2024)
-- 🥈 **Runner-up:** Technovate 2.0 Hackathon (2024)
-- 🏅 **Samvaad Award:** UIDAI (2025)
-- 🎓 **Academic Excellence Award:** Sardar Patel Institute of Technology
-- 🧑‍⚖️ **Reviewer:** IEEE Contemporary Computing Innovations Conference (2026)
-- 🤝 **Mentor:** SPIT SE Hackathon (2025)
-- 📘 **NPTEL Topper:** Social Networks (IIT Madras) and Data Analytics with Python (IIT Roorkee)
+| Where | Role | Work that mattered |
+|:--|:--|:--|
+| **IIT Bombay** | Research Intern | Fingerprint restoration, 95% minutiae preservation in a reported experiment, liveness research |
+| **SPJIMR** | Research Intern | Built learning tools for 75 students; analytics + an AI Q&A assistant |
+| **Sonicbolt Technologies** | IoT & Data Engineering Intern | Processed 25K+ hourly records/month; standardized data for 120+ devices |
+| **SPIT** | Teaching Assistant | Supported OOP and AI/Soft Computing laboratory teaching |
+| **ADN Fire Safety** | SDE Intern | Restructured 1,500+ historical transactions and procurement analytics |
+| **OnEMI** | Data Analytics Intern | Alternative-data credit modeling and LLM-based query classification |
 
----
-
-## 📊 GitHub Activity
+## 🧰 Tools I reach for
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purav-12345&show_icons=true&theme=transparent&hide_border=true" alt="Purav's GitHub statistics" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purav-12345&layout=compact&theme=transparent&hide_border=true" alt="Purav's most-used repository languages" height="160" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=purav-12345&theme=transparent&hide_border=true" alt="Purav's GitHub contribution streak" />
+
+**AI & modeling**
+
+<img alt="AI toolchain" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&amp;theme=dark" />
+
+**Software & infrastructure**
+
+<img alt="Engineering toolchain" src="https://skillicons.dev/icons?i=cpp,js,nodejs,fastapi,docker,kubernetes,git&amp;theme=dark" />
+
+**Data layer**
+
+<img alt="Data tools" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&amp;theme=dark" />
+
 </div>
 
-> GitHub widgets are provided by third-party services and may occasionally be unavailable or rate-limited.
+<details>
+<summary><b>+ More of my toolkit</b></summary>
+<br>
+
+**Languages:** Python, C++, C, JavaScript, SQL, Java, R, MATLAB  
+**ML/NLP:** scikit-learn, spaCy, Hugging Face Transformers, OpenCV, MLflow  
+**Systems/data:** Flask, Django, Node.js, PostgreSQL, MySQL, MongoDB, Neo4j, Weaviate, Kubernetes, Docker
+
+</details>
+
+## 🏅 Highlights beyond code
+
+- 🥇 **Hackathon wins:** DataHack 3.0 and SPIT SE Hackathon (2024); **runner-up** at Technovate 2.0 (2024)
+- 🏅 **Samvaad Award**, UIDAI (2025); **Academic Excellence Award**, SPIT
+- 🎓 **NPTEL Topper** in *Social Networks* (IIT Madras) and *Data Analytics with Python* (IIT Roorkee)
+- 📖 **Reviewer**, IEEE Contemporary Computing Innovations Conference (2026); **Hackathon Mentor**, SPIT (2025)
+
+## 📊 GitHub pulse
+
+<div align="center">
+
+<a href="https://github.com/purav-12345?tab=repositories"><img width="48%" alt="GitHub contributions and repository stats" src="https://github-readme-stats.vercel.app/api?username=purav-12345&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" /></a>
+<a href="https://github.com/purav-12345?tab=repositories"><img width="40%" alt="Most-used languages by GitHub repository" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purav-12345&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark" /></a>
+
+<sub>Live statistics are supplied by a third-party service and can sometimes fail to load. They are not a measure of research quality.</sub>
+
+</div>
 
 ---
 
-## 📬 Let's Connect
-
-I'm always interested in discussing research collaborations, AI/ML systems, and meaningful engineering problems.
-
-- **Email:** [ahyapurav2004@gmail.com](mailto:ahyapurav2004@gmail.com)
-- **GitHub:** [github.com/purav-12345](https://github.com/purav-12345)
-
 <div align="center">
-  <sub>Thanks for stopping by! ⭐ Feel free to explore my repositories.</sub>
+
+### Have a research question or a problem worth building for?
+
+**Let's compare ideas, test assumptions, and ship something useful.**
+
+[![Email](https://img.shields.io/badge/Start_a_conversation-Email-36CDB8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahyapurav2004@gmail.com)
+[![Explore code](https://img.shields.io/badge/Explore_my_code-GitHub-1F2B42?style=for-the-badge&logo=github&logoColor=white)](https://github.com/purav-12345?tab=repositories)
+
+<sub>Designed to work as a GitHub profile README · No scripts or GitHub Actions required</sub>
+
 </div>
